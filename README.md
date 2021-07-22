@@ -2,7 +2,7 @@
 
 ## A prosocial 3D raven simulator micro-game
 
-![Alt Text](https://media.giphy.com/media/4es86mVx7o5arEoa0F/giphy.gif)
+![gif] (https://media.giphy.com/media/4es86mVx7o5arEoa0F/giphy.gif)
 
 ### Setting
 Set in the animal realm, as conceived by the Buddhist tradition, in nature.  
