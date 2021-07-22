@@ -2,8 +2,6 @@
 
 ## A prosocial 3D raven simulator micro-game
 
-![Alt Text](https://media.giphy.com/media/4es86mVx7o5arEoa0F/giphy.gif)
-
 ### Setting
 Set in the animal realm, as conceived by the Buddhist tradition, in nature.  
 Nature environments may include “deciduous and evergreen forests up to treeline, as well as high desert, sea coast, sagebrush, tundra, and grasslands.” -All About Birds (https://www.allaboutbirds.org/guide/Common_Raven/id)
